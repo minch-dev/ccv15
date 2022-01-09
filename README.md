@@ -8,6 +8,10 @@ It takes an video input stream and outputs tracking data (e.g. coordinates and b
 CCV can interface with various web cameras and video devices as well as connect to various TUIO/OSC/XML enabled applications and supports many multi-touch lighting techniques including:
 FTIR, DI, DSI, and LLP with expansion planned for the future vision applications (custom modules/filters) in CCV 2.0.
 
+# Settings and setup
+Unpack into some folder you use for programs and utilities, inspect settings files in data/xml, they are more or less self-descriptive.
+Run in admin mode to be able to save settings from UI, they are stored in program's folder and pressing "Save" button in regular mode is going to save nothing.
+
 # Compiling instructions
 
 This page aims to provide more information about the compiling procedures for the Community Core Vision.
